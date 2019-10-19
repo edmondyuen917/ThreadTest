@@ -82,6 +82,9 @@ public class MainActivity extends AppCompatActivity {
 
             //.............................
 
+
+
+
             //做了很多事
             Toast.makeText(MainActivity.this,
                     "R1 running", Toast.LENGTH_LONG).show();

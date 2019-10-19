@@ -87,15 +87,11 @@ public class MainActivity extends AppCompatActivity {
                     "R1 running", Toast.LENGTH_LONG).show();
 
 
+
+
             //請經紀人指派工作名稱 r，給工人做
 
             mUI_Handler.post(r2);
-
-
-
-
-
-
         }
 
     };

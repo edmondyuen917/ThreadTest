@@ -69,6 +69,9 @@ public class MainActivity extends AppCompatActivity {
                     //請經紀人指派工作名稱 r，給工人做
                     mThreadHandler.post(r1);
                     break;
+
+
+
                 }
             }
         }
